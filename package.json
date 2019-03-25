@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "Portfolio Website",
+  "main": "index.html",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [
+    "portfolio",
+    "website"
+  ],
+  "author": "Mohana Naga Venkat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohananagavenkat/mohananagavenkat/issues"
+  },
+  "homepage": "https://mohananagavenkat.github.io"
+}
